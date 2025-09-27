@@ -1,0 +1,7 @@
+⚡ Step 3: Keep in sync with original
+
+When the original repo gets updates:
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
