@@ -23,3 +23,14 @@
 - [Perplexity](https://en.wikipedia.org/wiki/Perplexity)
     - [Perplexity for LLM Evaluation](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
     - [Perplexity explained with simple probabilities](https://medium.com/nlplanet/two-minutes-nlp-perplexity-explained-with-simple-probabilities-6cdc46884584)
+
+## Lab session 4
+
+- Understanding LSTM: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- GRU: https://d2l.ai/chapter_recurrent-modern/gru.html
+
+## Lab session 5
+
+- The Illustrated Transformer: https://jalammar.github.io/illustrated-transformer/
+
+- How do Transformers work?: https://huggingface.co/learn/llm-course/en/chapter1/4
